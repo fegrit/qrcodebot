@@ -22,7 +22,7 @@
 ![](https://github.com/fegrit/qrcodebot/blob/main/results/click_button.png)
 
 3. затем он попросит нас прислать ему ссылку для создания qr-кода в виде документа формата png
-4. бот отправляет нам qr-код!
+4. отправляем ему ссылку и бот отправляет нам qr-код!
 ![](https://github.com/fegrit/qrcodebot/blob/main/results/link_n_result.png)
 5. в случае, если написать боту какой-либо текст, вместо нажатия на кнопку
 ![](https://github.com/fegrit/qrcodebot/blob/main/results/unknown_command.png)
